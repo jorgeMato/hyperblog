@@ -1,1 +1,1 @@
-Ese numero largo (40 caracteres) se llama SHA (Secure Hash Algorithm, Algoritmo de Hash Seguro) y es un ID unico que se crea para cada commit.
+Ese numero largo (40 caracteres) se llama SHA (Secure Hash Algorithm, Algoritmo de Hashtakkkk Seguro) y es un ID unico que se crea para cada commit.
